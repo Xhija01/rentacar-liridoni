@@ -1,0 +1,13 @@
+# Dossierë dhe skedarë sistemit
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Dosje pune të VS Code
+.vscode/
+*.code-workspace
+
+# Skedarë të përkohshëm
+*.log
+*.tmp
+
