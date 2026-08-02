@@ -23,8 +23,8 @@
 - [x] 8. Krijimi i `.github/workflows/pages.yml` (deploy automatik me GitHub Actions)
 - [x] 9. Krijimi i `.gitignore`
 - [x] 10. Inicializimi i repositorit lokal Git me commit-in e parë
-- [ ] 11. Krijimi i repositorit në GitHub dhe ngarkimi (push) — udhëzimet në `README-GITHUB-PAGES.md`
-- [ ] 12. Aktivizimi i GitHub Pages dhe verifikimi i linkut publik
+- [x] 11. Krijimi i repositorit në GitHub dhe ngarkimi (push) — udhëzimet në `README-GITHUB-PAGES.md`
+- [x] 12. Aktivizimi i GitHub Pages dhe verifikimi i linkut publik
 
 ## Përditësime
 - (krijuar dosja dhe TODO)
