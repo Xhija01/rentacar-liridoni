@@ -21,6 +21,7 @@
 - [x] 6. Krijimi i `README-GITHUB-PAGES.md` (udhëzues hap-pas-hapi për GitHub Pages)
 - [x] 7. Krijimi i `.nojekyll` (për shërbim direkt të HTML-it në GitHub Pages)
 - [x] 8. Krijimi i `.github/workflows/pages.yml` (deploy automatik me GitHub Actions)
+       - [x] **HEQUR** më vonë — shkaktonte konflikt me "Deploy from a branch" (404)
 - [x] 9. Krijimi i `.gitignore`
 - [x] 10. Inicializimi i repositorit lokal Git me commit-in e parë
 - [x] 11. Krijimi i repositorit në GitHub dhe ngarkimi (push) — udhëzimet në `README-GITHUB-PAGES.md`

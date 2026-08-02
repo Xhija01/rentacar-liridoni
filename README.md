@@ -19,7 +19,6 @@ rentacar-liridoni/
 ├── README-GITHUB-PAGES.md      → Udhëzuesi për GitHub Pages
 ├── README-GOOGLE-SITES.md      → Udhëzuesi për Google Sites
 ├── .nojekyll                   → Siguron që GitHub Pages ta shërbejë HTML-in direkt
-└── .github/workflows/pages.yml → Deploy automatik (opsional)
 ```
 
 ## 🚀 Si ta shikosh lokalisht

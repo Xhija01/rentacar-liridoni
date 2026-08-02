@@ -95,10 +95,8 @@ https://EMRI-YT.github.io/rentacar-liridoni/
 
 (zëvendëso `EMRI-YT` me emrin tënd të përdoruesit)
 
-> 💡 **Alternativë automatikisht më e mirë:** Në këtë projekt është përfshirë edhe
-> një **workflow i GitHub Actions** (`.github/workflows/pages.yml`). Nëse te
-> **Settings → Pages** zgjedh **"Source: GitHub Actions"**, faqja do të publikohet
-> vetë në çdo ndryshim që bën — pa pasur nevojë të ndryshosh asgjë.
+> ✅ **Automatik:** Pasi ta bësh këtë një herë, faqja publikohet **vetë** në çdo
+> ndryshim që bën në `index.html` dhe e shtyn (Commit → Push) — pa asnjë hap shtesë.
 
 ---
 
